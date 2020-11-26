@@ -24,6 +24,6 @@
     "open": "0.0.5",
     "glob": "5.0.14",
     "commander": "2.8.1",
-    "highlight.js": "8.7.0"
+    "highlight.js": "9.18.2"
   }
 }
